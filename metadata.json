@@ -1,0 +1,6 @@
+{
+  "name": "Mise en Place - Restaurant Costing & Inventory",
+  "description": "Professional restaurant food costing system with real-time inventory tracking, automatic recipe margin recalculation, and menu engineering analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
